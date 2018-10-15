@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="IT Project Portfolio" max_length="40" name="x_71624_it_project_it_project_portfolio" type="collection"/>
+</database>

@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="IT Project Management" language="en" table="x_71624_it_project_management">
+    <sys_documentation element="" label="IT Project Portfolio" language="en" table="x_71624_it_project_it_project_portfolio">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>IT Project Management</label>
+            <label>IT Project Portfolio</label>
             <language>en</language>
-            <name>x_71624_it_project_management</name>
-            <plural>IT Project Managements</plural>
+            <name>x_71624_it_project_it_project_portfolio</name>
+            <plural>IT Project Portfolios</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-15 16:02:14</sys_created_on>
-            <sys_id>08c5e52bdbc1a3008c82324d7c9619e1</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_name>IT Project Management</sys_name>
+            <sys_created_on>2018-10-15 16:04:30</sys_created_on>
+            <sys_id>5546616bdbc1a3008c82324d7c9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IT Project Portfolio</sys_name>
             <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
             <sys_policy/>
             <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
-            <sys_update_name>sys_documentation_x_71624_it_project_management__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_71624_it_project_it_project_portfolio__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-15 16:04:00</sys_updated_on>
+            <sys_updated_on>2018-10-15 16:04:30</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

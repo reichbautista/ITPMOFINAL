@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="It Project Management" language="en" table="x_71624_it_project_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>It Project Management</label>
+            <language>en</language>
+            <name>x_71624_it_project_management</name>
+            <plural>It Project Managements</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-15 16:02:14</sys_created_on>
+            <sys_id>08c5e52bdbc1a3008c82324d7c9619e1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>It Project Management</sys_name>
+            <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
+            <sys_update_name>sys_documentation_x_71624_it_project_management__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-15 16:02:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

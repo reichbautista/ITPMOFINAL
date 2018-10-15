@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_71624_it_project_it_phase_sprint">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="expected_benefit_and_business_value" table="x_71624_it_project_management">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>live_feed=true</attributes>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Expected Benefit and Business Value</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,13 +23,13 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>expected_benefit_and_business_value</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <name>x_71624_it_project_it_phase_sprint</name>
+        <max_length>4000</max_length>
+        <name>x_71624_it_project_management</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -50,17 +45,17 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-15 16:07:18</sys_created_on>
-        <sys_id>7397a1e7db4d63407466362f9d9619d9</sys_id>
+        <sys_created_by>rbautista</sys_created_by>
+        <sys_created_on>2018-10-15 16:29:14</sys_created_on>
+        <sys_id>f3ebedebdb4d63407466362f9d9619d8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_71624_it_project_it_phase_sprint</sys_name>
+        <sys_name>Expected Benefit and Business Value</sys_name>
         <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
-        <sys_update_name>sys_dictionary_x_71624_it_project_it_phase_sprint_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-10-15 16:10:24</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_71624_it_project_management_expected_benefit_and_business_value</sys_update_name>
+        <sys_updated_by>rbautista</sys_updated_by>
+        <sys_updated_on>2018-10-15 16:29:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

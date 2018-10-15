@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-15 16:07:18</sys_created_on>
-        <sys_id>96e6a96bdbc1a3008c82324d7c961903</sys_id>
+        <sys_id>7f97a1e7db4d63407466362f9d9619e3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_71624_it_project_it_phase_sprint</sys_name>
         <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
-        <sys_update_name>ua_table_licensing_config_96e6a96bdbc1a3008c82324d7c961903</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_7f97a1e7db4d63407466362f9d9619e3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-10-15 16:07:18</sys_updated_on>
     </ua_table_licensing_config>

@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="IT Project Portfolio" max_length="40" name="x_71624_it_project_it_project_portfolio" type="collection"/>
+    <element label="IT Project Portfolio" max_length="40" name="x_71624_it_project_it_project_portfolio" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="u_name" type="string"/>
+        <element label="Portfolio Mansger" max_length="32" name="u_portfolio_manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Portfolio Description" max_length="4000" name="u_port_des" type="string"/>
+        <index name="index">
+            <element name="u_portfolio_manager"/>
+        </index>
+    </element>
 </database>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ac77bef7dbc5a3407466362f9d961928</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>RBtest</sys_created_by>
+        <sys_created_on>2018-10-16 16:37:39</sys_created_on>
+        <sys_id>e477bef7dbc5a3407466362f9d96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DropBox Page</sys_name>
+        <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
+        <sys_update_name>sp_instance_e477bef7dbc5a3407466362f9d96192a</sys_update_name>
+        <sys_updated_by>RBtest</sys_updated_by>
+        <sys_updated_on>2018-10-16 16:37:39</sys_updated_on>
+        <title>DropBox Page</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h2 style=\"text-align: center;\">In July, Fitbit will start the process to migrate away from DropBox to Google Drive. Please refer to the <a href=\"https://wiki.fitbit.com/display/intranet/Dropbox+Migration\"> Migration Wiki </a> for more information</h2>",
+		"displayValue": "<h2 style=\"text-align: center;\">In July, Fitbit will start the process to migrate away from DropBox to Google Drive. Please refer to the <a href=\"https://wiki.fitbit.com/display/intranet/Dropbox+Migration\"> Migration Wiki </a> for more information</h2>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=e477bef7dbc5a3407466362f9d96192a"/>
+</record_update>

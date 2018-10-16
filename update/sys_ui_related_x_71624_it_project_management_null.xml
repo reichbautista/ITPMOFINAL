@@ -3,31 +3,31 @@
     <sys_ui_related sys_domain="global" table="x_71624_it_project_management" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="IT Project Management - Default view" name="x_71624_it_project_management" related_list="NULL" sys_domain="global" view="Default view">a711b2f3dbc5a3407466362f9d961935</list_id>
+            <list_id display_value="IT Project Management - Default view" name="x_71624_it_project_management" related_list="NULL" sys_domain="global" view="Default view">0855fe37dbc5a3407466362f9d961970</list_id>
             <order_by/>
             <position>0</position>
-            <related_list>x_78226_project_ma_project_task.parent</related_list>
-            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
-            <sys_created_by>RBtest</sys_created_by>
-            <sys_created_on>2018-10-16 16:10:00</sys_created_on>
-            <sys_id>2f11b2f3dbc5a3407466362f9d961935</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>RBtest</sys_updated_by>
-            <sys_updated_on>2018-10-16 16:10:00</sys_updated_on>
-        </sys_ui_related_list_entry>
-        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
-            <filter/>
-            <list_id display_value="IT Project Management - Default view" name="x_71624_it_project_management" related_list="NULL" sys_domain="global" view="Default view">a711b2f3dbc5a3407466362f9d961935</list_id>
-            <order_by/>
-            <position>1</position>
             <related_list>x_71624_it_project_it_phase_sprint.parent</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>RBtest</sys_created_by>
-            <sys_created_on>2018-10-16 16:10:00</sys_created_on>
-            <sys_id>2311b2f3dbc5a3407466362f9d961936</sys_id>
+            <sys_created_on>2018-10-16 16:28:19</sys_created_on>
+            <sys_id>cc55fe37dbc5a3407466362f9d961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>RBtest</sys_updated_by>
-            <sys_updated_on>2018-10-16 16:10:00</sys_updated_on>
+            <sys_updated_on>2018-10-16 16:28:19</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="IT Project Management - Default view" name="x_71624_it_project_management" related_list="NULL" sys_domain="global" view="Default view">0855fe37dbc5a3407466362f9d961970</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_78226_project_ma_project_task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>RBtest</sys_created_by>
+            <sys_created_on>2018-10-16 16:28:19</sys_created_on>
+            <sys_id>c055fe37dbc5a3407466362f9d961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>RBtest</sys_updated_by>
+            <sys_updated_on>2018-10-16 16:28:19</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>IT Project Management - Default view</calculated_name>
@@ -38,10 +38,10 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>RBtest</sys_created_by>
-            <sys_created_on>2018-10-16 16:10:00</sys_created_on>
+            <sys_created_on>2018-10-16 16:28:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a711b2f3dbc5a3407466362f9d961935</sys_id>
+            <sys_id>0855fe37dbc5a3407466362f9d961970</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>IT Project Management - Default view</sys_name>
             <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
@@ -49,7 +49,7 @@
             <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
             <sys_update_name>sys_ui_related_x_71624_it_project_management_null</sys_update_name>
             <sys_updated_by>RBtest</sys_updated_by>
-            <sys_updated_on>2018-10-16 16:10:00</sys_updated_on>
+            <sys_updated_on>2018-10-16 16:28:19</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

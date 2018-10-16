@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <display_field>short_description</display_field>
+        <field_list>short_description,state,description,project_manager,u_portfolio</field_list>
+        <filter table="x_71624_it_project_management">state=-5^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="-5"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>4</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">7477bef7dbc5a3407466362f9d961935</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>RBtest</sys_created_by>
+        <sys_created_on>2018-10-16 18:06:09</sys_created_on>
+        <sys_id>4dbb4bf3db09a3407466362f9d9619c2</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
+        <sys_update_name>sp_instance_table_4dbb4bf3db09a3407466362f9d9619c2</sys_update_name>
+        <sys_updated_by>RBtest</sys_updated_by>
+        <sys_updated_on>2018-10-16 18:10:25</sys_updated_on>
+        <table>x_71624_it_project_management</table>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=4dbb4bf3db09a3407466362f9d9619c2"/>
+</record_update>

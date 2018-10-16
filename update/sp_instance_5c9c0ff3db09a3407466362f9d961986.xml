@@ -4,44 +4,35 @@
         <active>true</active>
         <class_name/>
         <color>default</color>
-        <css>img {&#13;
-    display: block;&#13;
-    margin-left: auto;&#13;
-    margin-right: auto;&#13;
-}&#13;
-&#13;
-p&#13;
-{&#13;
-border-top-style: solid;&#13;
-}</css>
+        <css/>
         <glyph/>
         <id/>
-        <order>0</order>
+        <order>1</order>
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="1">a077bef7dbc5a3407466362f9d96192f</sp_column>
+        <sp_column display_value="1">7477bef7dbc5a3407466362f9d961935</sp_column>
         <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>RBtest</sys_created_by>
-        <sys_created_on>2018-10-16 16:37:39</sys_created_on>
-        <sys_id>e877bef7dbc5a3407466362f9d961930</sys_id>
+        <sys_created_on>2018-10-16 18:09:55</sys_created_on>
+        <sys_id>5c9c0ff3db09a3407466362f9d961986</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
+        <sys_name>Project In Progress</sys_name>
         <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
-        <sys_update_name>sp_instance_e877bef7dbc5a3407466362f9d961930</sys_update_name>
+        <sys_update_name>sp_instance_5c9c0ff3db09a3407466362f9d961986</sys_update_name>
         <sys_updated_by>RBtest</sys_updated_by>
-        <sys_updated_on>2018-10-16 18:15:22</sys_updated_on>
-        <title/>
+        <sys_updated_on>2018-10-16 18:10:13</sys_updated_on>
+        <title>Project In Progress</title>
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p><img src=\"Family.jpg\" width=\"720\" height=\"322\" /></p>",
-		"displayValue": "<p><img src=\"Family.jpg\" width=\"720\" height=\"322\" /></p>"
+		"value": "<p>Project In Progress</p>",
+		"displayValue": "<p>Project In Progress</p>"
 	}
 }]]></widget_parameters>
     </sp_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=e877bef7dbc5a3407466362f9d961930"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=5c9c0ff3db09a3407466362f9d961986"/>
 </record_update>

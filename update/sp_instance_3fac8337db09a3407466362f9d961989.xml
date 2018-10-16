@@ -7,27 +7,32 @@
         <css/>
         <glyph/>
         <id/>
-        <order>0</order>
+        <order>3</order>
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="3">7c77bef7dbc5a3407466362f9d96197d</sp_column>
-        <sp_widget display_value="My Surveys">04b1cc07c3231200e44574e1c1d3ae96</sp_widget>
+        <sp_column display_value="1">7477bef7dbc5a3407466362f9d961935</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>RBtest</sys_created_by>
-        <sys_created_on>2018-10-16 16:37:39</sys_created_on>
-        <sys_id>3477bef7dbc5a3407466362f9d96197f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2018-10-16 18:10:25</sys_created_on>
+        <sys_id>3fac8337db09a3407466362f9d961989</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
-        <sys_update_name>sp_instance_3477bef7dbc5a3407466362f9d96197f</sys_update_name>
+        <sys_update_name>sp_instance_3fac8337db09a3407466362f9d961989</sys_update_name>
         <sys_updated_by>RBtest</sys_updated_by>
-        <sys_updated_on>2018-10-16 16:37:39</sys_updated_on>
+        <sys_updated_on>2018-10-16 18:10:57</sys_updated_on>
         <title/>
         <url/>
-        <widget_parameters/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p>Pipeline Projects</p>",
+		"displayValue": "<p>Pipeline Projects</p>"
+	}
+}]]></widget_parameters>
     </sp_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=3477bef7dbc5a3407466362f9d96197f"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=3fac8337db09a3407466362f9d961989"/>
 </record_update>

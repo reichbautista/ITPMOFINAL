@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" extends="task" label="IT Project Management" max_length="40" name="x_71624_it_project_management" type="collection">
+    <element attributes="live_feed=true" extends="task" label="IT Project Management" max_length="40" name="x_71624_it_project_management" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Business Impact if not done" max_length="4000" name="business_impact_if_not_done" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Business Requirements" max_length="4000" name="business_requirements" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Current Work Around" max_length="4000" name="current_work_around" type="string"/>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sp_container">
     <sp_container action="INSERT_OR_UPDATE">
-        <background_color>#e7e9eb</background_color>
+        <background_color/>
         <background_image/>
         <background_style>default</background_style>
         <bootstrap_alt>false</bootstrap_alt>
         <class_name/>
         <container_class_name/>
-        <name>IT Project Management - Container 8</name>
-        <order>8</order>
-        <sp_page display_value="it_project_management">68777ef7dbc5a3407466362f9d96199b</sp_page>
+        <name>IT PROJ TICKETS - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="it_proj_tickets">4b617388db11e3407466362f9d961943</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
-        <sys_created_by>RBtest</sys_created_by>
-        <sys_created_on>2018-10-16 16:37:39</sys_created_on>
-        <sys_id>3477bef7dbc5a3407466362f9d96194b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>IT Project Management - Container 8</sys_name>
+        <sys_created_by>rbautista</sys_created_by>
+        <sys_created_on>2018-10-17 15:45:13</sys_created_on>
+        <sys_id>de0577c8db11e3407466362f9d96194d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT PROJ TICKETS - Container 1</sys_name>
         <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
-        <sys_update_name>sp_container_3477bef7dbc5a3407466362f9d96194b</sys_update_name>
-        <sys_updated_by>RBtest</sys_updated_by>
-        <sys_updated_on>2018-10-16 22:34:23</sys_updated_on>
+        <sys_update_name>sp_container_de0577c8db11e3407466362f9d96194d</sys_update_name>
+        <sys_updated_by>rbautista</sys_updated_by>
+        <sys_updated_on>2018-10-17 15:45:13</sys_updated_on>
         <title/>
         <width>container</width>
     </sp_container>

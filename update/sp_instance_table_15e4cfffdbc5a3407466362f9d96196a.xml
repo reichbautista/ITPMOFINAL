@@ -7,7 +7,8 @@
         <css/>
         <display_field>active</display_field>
         <field_list>short_description,project_manager,u_status,state,u_portfolio,due_date</field_list>
-        <filter table="x_71624_it_project_management">stateIN1,2^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="1,2"/>
+        <filter table="x_71624_it_project_management">stateIN1,2^sys_class_name=x_71624_it_project_management^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="1,2"/>
+            <item endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_71624_it_project_management"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <glyph/>
@@ -20,20 +21,20 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="1">7477bef7dbc5a3407466362f9d961935</sp_column>
-        <sp_page/>
+        <sp_page display_value="it_proj_tickets">4b617388db11e3407466362f9d961943</sp_page>
         <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
         <sys_class_name>sp_instance_table</sys_class_name>
         <sys_created_by>RBtest</sys_created_by>
         <sys_created_on>2018-10-16 17:36:24</sys_created_on>
         <sys_id>15e4cfffdbc5a3407466362f9d96196a</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>Current Projects</sys_name>
         <sys_package display_value="IT Project Management" source="x_71624_it_project">efb52de7dbc1a3008c82324d7c961931</sys_package>
         <sys_policy/>
         <sys_scope display_value="IT Project Management">efb52de7dbc1a3008c82324d7c961931</sys_scope>
         <sys_update_name>sp_instance_table_15e4cfffdbc5a3407466362f9d96196a</sys_update_name>
-        <sys_updated_by>RBtest</sys_updated_by>
-        <sys_updated_on>2018-10-16 18:09:55</sys_updated_on>
+        <sys_updated_by>rbautista</sys_updated_by>
+        <sys_updated_on>2018-10-17 16:08:14</sys_updated_on>
         <table>x_71624_it_project_management</table>
         <title>Current Projects</title>
         <url/>
